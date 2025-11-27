@@ -143,17 +143,3 @@ Payment is handled externally and is not part of the system core.
 Email notifications are integrated for customer and staff updates.
 
 
-Folder Structure (GitHub)
-FSTA-Tour-Reservation-System/
-│
-├─ Documentation/
-│  ├─ LogicalDataModel.pdf
-│  ├─ DataDictionary.pdf
-│  └─ AnalysisModel.pdf
-│
-├─ Diagrams/
-│  ├─ UseCaseDiagrams/
-│  ├─ SequenceDiagrams/
-│  └─ ClassDiagrams/
-│
-└─ README.md
